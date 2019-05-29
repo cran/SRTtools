@@ -1,0 +1,14 @@
+74a04904d876f9826830d727259c7cd2 *DESCRIPTION
+13b35f140b12d98c98c05aff2970f821 *NAMESPACE
+b74cb4253be3c8edc0840639e9870b35 *R/main.R
+aa63e928a616764573c2f95220cee9ff *R/package.R
+8dc374738c6c36e68540fe18dd94bd3f *README.md
+31ce825e48d3388f1a2511fe57a1a02d *inst/extdata/movie.srt
+b4d0f0b9a9880edc9e82dbf6b46903b3 *man/SRTtools.Rd
+4a0d2c78f028470538a590d860ddb719 *man/img/01.jpg
+55b04683421189634ef1673a1d834b45 *man/srt.content.Rd
+9aee3ae8b38102236ad897eace064670 *man/srt.read.Rd
+12bcc0221be6d7922d62ee3cbf0ac821 *man/srt.search.Rd
+ca45e9f3cd0e5471586eb9e872c2e3f8 *man/srt.shift.Rd
+1b4e110af0230180393001eb17c83367 *man/srt.style.Rd
+f8d5d1d9759057e09c1d2bfb57ede750 *man/srt.write.Rd
